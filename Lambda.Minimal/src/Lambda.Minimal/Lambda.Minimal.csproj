@@ -12,9 +12,5 @@
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="Amazon.Lambda.AspNetCoreServer.Hosting" Version="1.1.0" />
-    <PackageReference Include="CA.BLT.Caching" Version="5.0.0" />
-    <PackageReference Include="CA.BLT.CoreDomainAuthClient" Version="12.0.2" />
-    <PackageReference Include="CA.BLT.Extensions" Version="5.0.2" />
-    <PackageReference Include="CA.BLT.SDSClient" Version="6.0.0" />
   </ItemGroup>
 </Project>
